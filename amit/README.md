@@ -1,5 +1,10 @@
 Files related to Vitis toolflow
 
+Platform/Shell: xilinx_u50_gen3x16_xdma_201920_3
+
+XRT Version: 2.6.655
+Vitis Version: 2020.1
+
 Directory Structure
 platform
 -application
