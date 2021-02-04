@@ -6,6 +6,8 @@ It does not handle any interaction between the host machine and hardware kernels
 As such, this is purely a bit of code that can be use in other projects to take care of device addressing
 All other admin (setting up global memory, handling data transfers etc) must still be done according to
 the desired application and kernel functionality
+
+Usage: path/to/application/addressing_host.exe <device ID> <xclbin file>
 */ 
 
 #include <stdlib.h>
