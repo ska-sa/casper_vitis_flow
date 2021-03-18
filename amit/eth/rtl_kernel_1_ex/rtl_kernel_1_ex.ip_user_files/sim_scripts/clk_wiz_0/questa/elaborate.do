@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xilinx_vip -L xpm -L xil_defaultlib -L cmac_usplus_v3_1_0 -L axi_vip_v1_1_7 -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.clk_wiz_0 xil_defaultlib.glbl -o clk_wiz_0_opt

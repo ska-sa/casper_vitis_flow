@@ -1,0 +1,6 @@
+verilog xil_defaultlib --include "../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/ip/ila_1/hdl/verilog" \
+"../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/ip/ila_1/sim/ila_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

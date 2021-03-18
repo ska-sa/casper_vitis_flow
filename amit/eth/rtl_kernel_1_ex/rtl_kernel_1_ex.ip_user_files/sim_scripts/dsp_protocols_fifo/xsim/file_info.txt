@@ -1,0 +1,2 @@
+dsp_protocols_fifo_sim_netlist.v,verilog,xil_defaultlib,../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/dsp_protocols_fifo/ip/dsp_protocols_fifo/dsp_protocols_fifo_sim_netlist.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

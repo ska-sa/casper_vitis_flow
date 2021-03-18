@@ -1,0 +1,4 @@
+rtl_kernel_wizard_0_A_input_buffer
+rtl_kernel_wizard_0_control_s_axi
+rtl_kernel_wizard_0_A_m_axi
+rtl_kernel_wizard_0

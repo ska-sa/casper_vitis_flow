@@ -1,0 +1,2 @@
+axi_cdma_0.vhd,vhdl,xil_defaultlib,../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/ip/axi_cdma_0/sim/axi_cdma_0.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v
