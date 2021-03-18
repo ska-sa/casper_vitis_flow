@@ -1,5 +1,6 @@
 Files related to Vitis toolflow
 
+XRT: 2.8.743
 Vitis Version: 2020.2
 
 Directory Structure  
