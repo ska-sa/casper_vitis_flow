@@ -1,6 +1,0 @@
-verilog xil_defaultlib  \
-"../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/dsp_snd_src_fifo/ip/dsp_snd_src_fifo/dsp_snd_src_fifo_sim_netlist.v" \
-
-verilog xil_defaultlib "glbl.v"
-
-nosort

@@ -1,2 +1,0 @@
-ila_0.v,verilog,xil_defaultlib,../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/ip/ila_0/sim/ila_0.v,incdir="../../../../../../../../casper_astro/mlib_devel/100gbe/u50/dsp_packetizer/dsp_packetizer.srcs/ip/ila_0/hdl/verilog"
-glbl.v,Verilog,xil_defaultlib,glbl.v

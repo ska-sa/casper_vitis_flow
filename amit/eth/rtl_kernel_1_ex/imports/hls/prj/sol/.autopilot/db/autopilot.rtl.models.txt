@@ -1,5 +1,0 @@
-rtl_kernel_1_m00_axi_input_buffer
-rtl_kernel_1_control_s_axi
-rtl_kernel_1_m00_axi_m_axi
-rtl_kernel_1_m01_axi_m_axi
-rtl_kernel_1
