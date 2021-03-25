@@ -18,3 +18,10 @@ platform
 ----imports (vivado kernel files)
 ----exports (vivado packaged rtl kernel xo files)  
 ----rtl_kernel_wizard_0 (packaged ip used in rtl kernel)
+
+--rtl_kernel_wizard_1
+---src (file to generate rtl kernel)
+---rtl_kernel_wizard_1_ex (vivado rtl kernel project)
+---hls_kernels (all hls kernels)
+----src (hls kernel sources)
+
